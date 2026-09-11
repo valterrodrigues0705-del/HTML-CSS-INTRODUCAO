@@ -15,14 +15,14 @@ h1{
     font-weight: bold;
     font-style: normal;
     margin-bottom: 20px;
-    margin: 20px auto;
+    margin-left: 630px;
 }
 h2{
     color: black;
     width: fit-content;
     font-size: 30px;
     font-weight: lighter;
-    font-style: ;
+    font-style: normal;
     margin: 20px auto;
 }  
 p{
@@ -31,18 +31,20 @@ p{
     font-size: 25px;
     font-weight: lighter;
     font-style: italic;
-    margin: 20px auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 ol{ 
-    color: #000000
-    width; fit-content
-    font-weight: lighter;
     font-style: italic;
+    font-weight: lighter;
     width: 300px;
     margin: 20px auto;
     font-size: 20px;
     text-align: center;
+    color: #000000
 }
-p strong{color: #1d1b1ba5;}
+p strong{color: #000000;}
 .texto-verde{color: #00ff00;}
 .bg-laranja{background-color: #ff4d00;}
